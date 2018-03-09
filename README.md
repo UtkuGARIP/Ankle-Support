@@ -1,13 +1,13 @@
-Ankle-Support
+Ayak Bileği Desteği
 
 
-This is a mod for **The Long Dark** by Hinterland Games Studio, Inc.
+Hinterland Oyun Stüdyosu, Inc, **The Long Dark** için moddur.
 
 
-All types of shoes and boots help prevent sprained ankles from falling and moving on uneven terrain. 
+Her türlü ayakkabı ve bot, ayak bileği burkulmasını ve engebeli arazide hareket etmesini önlemeye yardımcı olur. 
 
-The strength of the support is derived from a shoes protection value:  
-Each point in protection reduced the chance to receive a sprain by two per cent.
+Desteğin gücü, bir ayakkabı koruma değerinden elde edilir:
+Korumadaki her nokta, bir burkulma yüzdesini ikiye katlama şansını azaltmıştır.
 
 
-Requires the [Mod Loader](https://github.com/zeobviouslyfakeacc/ModLoaderInstaller) to run.
+Kullanabilmek için [Mod Loader](https://github.com/zeobviouslyfakeacc/ModLoaderInstaller) indirmelisiniz.
